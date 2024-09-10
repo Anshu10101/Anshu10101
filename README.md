@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anshul</h1>
 <h3 align="center">I'm fluent in sarcasm and several programming languages. Hire me?</h3>
 
-<img align="right" alt="coding" width="400" src="[https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966](https://media.tenor.com/m1Mr-khUDVgAAAAC/anime-hacking.gif)">
+<img align="right" alt="coding" width="400" src="[[https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966](https://media.tenor.com/m1Mr-khUDVgAAAAC/anime-hacking.gif)](https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjU5NjI2MjQsIm5iZiI6MTcyNTk2MjMyNCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTEwVDA5NTg0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFhNDE0MTU0ZWRkOTFhMWVlNzRlYzI1MmYzMjM4ZWNhZmFhY2JkMGI4NDYzMGM0MDA1ZTVjMjcxNzA5YjQ1YjAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.b-we5MNL_yjfR4t9UpOUZxaOfHAfXEwwLGI4Tlc2yXA)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshu10101&label=Profile%20views&color=0e75b6&style=flat" alt="anshu10101" /> </p>
 
