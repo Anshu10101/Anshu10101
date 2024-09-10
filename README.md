@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anshul</h1>
 <h3 align="center">I'm fluent in sarcasm and several programming languages. Hire me?</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.gifer.com/fetch/w300-preview/36/3682c9850f0beb2148f1c7340836f08b.gif" >
+<img align="right" alt="coding" width="400" src="https://imgur.com/rTZkf4K" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshu10101&label=Profile%20views&color=0e75b6&style=flat" alt="anshu10101" /> </p>
 
