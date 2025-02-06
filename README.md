@@ -70,11 +70,6 @@
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;"/>
   </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Generative_artificial_intelligence" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" alt="generative-ai" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;"/>
   </a>
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
     <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
