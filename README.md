@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **ay839990@gmail.com**
+- 📫 How to reach me **anshul.yadv22@gmail.com**
 
 - ⚡ Fun fact **I ❤️ open source more than my sleep schedule (sometimes)**
 
