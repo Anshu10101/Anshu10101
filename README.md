@@ -1,7 +1,7 @@
 <h1 align="center">Howdy?👋, Anshul here!</h1>
 <h3 align="center">I'm fluent in sarcasm and several programming languages. Hire me?</h3>
 
-<img align="right" alt="coding" width="400" src="https://gist.githubusercontent.com/zeysert/bc8c0a4090c377a755dcc77bbeac66e4/raw/43f9b12677934c5d99499f6d9d574d30c86f979c/coding.gif" >
+<img align="right" alt="coding" width="400" mg src="https://media1.tenor.com/m/mjWYgxi6RS8AAAAC/lain-typing.gif" width="500" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshu10101&label=Profile%20views&color=0e75b6&style=flat" alt="anshu10101" /> </p>
 
@@ -19,23 +19,19 @@
 
 📩 **Reach Me At:** **anshul.yadv22@gmail.com**  
 
-⚡ **Fun Fact:** I ❤️ **open-source** more than my sleep schedule... (well, sometimes!) 😆  
+⚡ **Fun Fact:** I ❤️ **open-source** more than my sleep schedule... (well, sometimes!)   
 
 
 # 🤝🏻Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/anshul__yadav_" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anshul__yadav_" height="30" width="40" />
-</a>
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anshul__yadav_" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/anshul-yadav-a10b31136/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Anshul Yadav LinkedIn" height="30" width="40" />
-</a>
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Anshul Yadav LinkedIn" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/Anshul00ydv/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Anshul LeetCode" height="30" width="40" />
-</a>
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Anshul LeetCode" height="30" width="40" /></a>
 <a href="https://discord.com/users/893793715771039796" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Anshul Discord" height="30" width="40" />
-</a>
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Anshul Discord" height="30" width="40" /></a>
 </p>
 
 
