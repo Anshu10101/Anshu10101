@@ -10,7 +10,7 @@
 
 📖 **Currently Learning:** Diving deep into **Deep Learning**  
 
-🤝 **Looking to Collaborate On:** **Unique ideas & innovative projects**  
+🤝🏻 **Looking to Collaborate On:** **Unique ideas & innovative projects**  
 
 💡 **Ask Me About:** **Anything!**  
 
