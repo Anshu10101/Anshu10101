@@ -1,4 +1,4 @@
-<h1 align="center">Howdy?👋, Anshul here!</h1>
+<h1 align="center">Howdy?👋🏻, Anshul here!</h1>
 <h3 align="center">I'm fluent in sarcasm and several programming languages. Hire me?</h3>
 
 <img align="right" alt="coding" width="400" mg src="https://media1.tenor.com/m/mjWYgxi6RS8AAAAC/lain-typing.gif" width="500" >
