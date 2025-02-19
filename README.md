@@ -21,7 +21,7 @@
 ⚡ **Fun Fact:** I ❤️**open-source** more than my sleep schedule(well, sometimes!)   
 
 
-# 🤝🏻Connect with me:</h3>
+# 🤝🏻Social profiles:</h3>
 <a href="https://twitter.com/anshul__yadav_" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" alt="X" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/anshul-yadav-a10b31136/" target="blank">
