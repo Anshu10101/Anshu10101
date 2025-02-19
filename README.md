@@ -13,7 +13,7 @@
 
 🤝 **Looking to Collaborate On:** **Unique ideas & innovative projects**  
 
-💡 **Ask Me About:** **Anything tech-related! Always happy to help.**  
+💡 **Ask Me About:** **Anything!**  
 
 🌐 **Portfolio:** [**anshulydv-portfolio.vercel.app**](https://anshulydv-portfolio.vercel.app/)  
 
