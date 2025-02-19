@@ -7,17 +7,20 @@
 
 <p align="left"> <a href="https://twitter.com/anshul__yadav_" target="blank"><img src="https://img.shields.io/twitter/follow/anshul__yadav_?logo=twitter&style=for-the-badge" alt="anshul__yadav_" /></a> </p>
 
-- 🔭 I’m currently working on **AI - ML**
+🚀 **Currently Working On:** Exploring the world of **AI & Machine Learning**  
 
-- 🌱 I’m currently learning **Generative AI**
+📖 **Currently Learning:** Diving deep into **Generative AI**  
 
-- 👯 I’m looking to collaborate on **unqiue ideas & projects**
+🤝 **Looking to Collaborate On:** **Unique ideas & innovative projects**  
 
-- 💬 Ask me about **anything**
+💡 **Ask Me About:** **Anything tech-related! Always happy to help.**  
 
-- 📫 How to reach me **anshul.yadv22@gmail.com**
+🌐 **Portfolio:** [**anshulydv-portfolio.vercel.app**](https://anshulydv-portfolio.vercel.app/)  
 
-- ⚡ Fun fact **I ❤️ open source more than my sleep schedule (sometimes)**
+📩 **Reach Me At:** **anshul.yadv22@gmail.com**  
+
+⚡ **Fun Fact:** I ❤️ **open-source** more than my sleep schedule... (well, sometimes!) 😆  
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
