@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/anshul__yadav_" target="blank"><img src="https://img.shields.io/twitter/follow/anshul__yadav_?logo=twitter&style=for-the-badge" alt="anshul__yadav_" /></a> </p>
 
-🚀 **Currently Working On:** Exploring the world of **AI & Machine Learning**  
+🚀 **Currently Working On:** Exploring  **AI & Machine Learning**  
 
-📖 **Currently Learning:** Diving deep into **Generative AI**  
+📖 **Currently Learning:** Diving deep into **Deep Learning**  
 
 🤝 **Looking to Collaborate On:** **Unique ideas & innovative projects**  
 
