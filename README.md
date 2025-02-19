@@ -18,7 +18,7 @@
 
 📩 **Reach Me At:** **anshul.yadv22@gmail.com**  
 
-⚡ **Fun Fact:** I ❤️ **open-source** more than my sleep schedule... (well, sometimes!)   
+⚡ **Fun Fact:** I ❤️**open-source** more than my sleep schedule(well, sometimes!)   
 
 
 # 🤝🏻Connect with me:</h3>
