@@ -16,7 +16,7 @@
 
 🌐 **Portfolio:** [**anshulydv-portfolio.vercel.app**](https://anshulydv-portfolio.vercel.app/)  
 
-🌐 **My Blog:** [**https://anshul-s-blog-site.vercel.app/**](https://anshul-s-blog-site.vercel.app/)  
+🌐 **My Blog:** [**anshul-s-blog-site.vercel.app/**](https://anshul-s-blog-site.vercel.app/)  
 
 📩 **Reach Me At:** **anshul.yadv22@gmail.com**  
 
